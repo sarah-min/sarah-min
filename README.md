@@ -1,5 +1,5 @@
 # Hi! I'm Sarah 🌱
-🎓 Currently studying Computer Science & Linguistics at USC  
+🎓 Currently studying Computer Science (+ a minor in Linguistics) at USC  
   
 #### Project Guide
 | Project  | Description |
