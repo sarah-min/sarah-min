@@ -4,7 +4,7 @@
 #### Project Guide
 | Project  | Description |
 | :------------- | :------------- | 
-| [StockUp](https://github.com/sarah-min/StockUp) 📈 | Agentic trading platform that rewards profits with physical rewards <br> 🏆 Best Use of x402 Coinbase Challenge |
+| [StockUp](https://github.com/sarah-min/StockUp) 📈 | Agentic trading platform that rewards profits with physical rewards <br> 🏆 Best Use of x402 by Coinbase Challenge |
 | [TuneIn](https://github.com/azh23/TuneIn) 🎶 | Multi-instrumental tuner and music coaching app for Even Realities AR glasses |
 | [AthenaHacks 2026](https://github.com/athenahacks/AthenaHacks2026) 🦉  | Website for AthenaHacks 2026, a hackathon for underrepresented genders in technology  |
 | [Flamingo](https://github.com/sarah-min/flamingo) 🦩 | Context-aware Chrome extension that provides Standard English translations for dialect variances <br> 🏆 Most Efficient, Best Use of Vultr |
